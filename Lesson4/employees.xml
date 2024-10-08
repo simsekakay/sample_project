@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee id="1">
+        <first_name>Ahmet</first_name>
+        <last_name>Celik</last_name>
+        <email>testMail@mail.com</email>
+        <position>QA</position>
+        <salary>1000</salary>
+    </employee>
+    <employee id="2">
+        <first_name>Veli</first_name>
+        <last_name>Yılmaz</last_name>
+        <email>testMail2@mail.com</email>
+        <position>Developer</position>
+        <salary>1000</salary>
+    </employee>
+</employees>
